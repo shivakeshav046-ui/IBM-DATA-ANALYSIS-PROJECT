@@ -1,0 +1,15 @@
+1. Does employee age influence employee attrition?
+
+2. Does working overtime increase employee attrition?
+
+3. Does monthly income affect employee attrition?
+
+4. Does job satisfaction influence employees to leave the company?
+
+5. Does work-life balance affect employee attrition?
+
+6. Which department has the highest employee attrition?
+
+7. Which job role experiences the highest employee attrition?
+
+8. Does distance from home influence employee attrition?
